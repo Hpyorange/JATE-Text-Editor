@@ -22,9 +22,9 @@
   * Use command 'npm i' to install all the require file
 
   ## Usage 
-  Use the command 'npm start" to start the app. Then open web browser at  
-  localhost:3000 or use the deployed  
-  link:https://texteditor2023.herokuapp.com/ 
+  Use the command 'npm start" to start the app. 
+  Then open web browser at localhost:3000 
+  or use the deployed link:https://texteditor2023.herokuapp.com/ 
 
   ## License 
   [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
