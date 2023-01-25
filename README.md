@@ -22,8 +22,7 @@
   * Use command 'npm i' to install all the require file
 
   ## Usage 
-  Use the command 'npm start" to start the app. \ 
-  Then open web browser at localhost:3000 or use the deployed link
+  Use the command 'npm start" to start the app. Then open web browser at localhost:3000 or use the deployed link
 
   ## License 
   [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
